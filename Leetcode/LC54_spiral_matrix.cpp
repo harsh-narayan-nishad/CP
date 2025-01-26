@@ -39,7 +39,7 @@ public:
 };
 
 int main() {
-    // Input the dimensions of the matrix
+    // Dimension of matrix
     int rows, cols;
     cout << "Enter the number of rows: ";
     cin >> rows;
