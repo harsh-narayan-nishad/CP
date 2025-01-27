@@ -1,3 +1,4 @@
-*.cph
+*.log
 .gitignore
-*.vscode
+.vscode/
+.cph/
